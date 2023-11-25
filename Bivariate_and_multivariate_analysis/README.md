@@ -1,1 +1,2 @@
-# Machine-Learning-topics
+# Bivariate and multivariate Exploratory data analysis
+This folder contains the code of bivariate and multivariate analysis.

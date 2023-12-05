@@ -1,3 +1,4 @@
 # Feature scaling- Normalization
 This method is more or less the same as the previous method but here instead of the minimum value, we subtract each entry by the mean value of the whole data and then divide the results by the difference between the minimum and the maximum value.
-![Mean Formula](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.oreilly.com%2Fapi%2Fv2%2Fepubs%2F9781788393485%2Ffiles%2Fassets%2F545d977f-9de2-4280-b08a-0436149980c5.png&tbnid=ACby5A8cbo2SUM&vet=12ahUKEwingtzBoviCAxUkm2MGHeTOCcoQMygXegQIARB8..i&imgrefurl=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fhands-on-machine-learning%2F9781788393485%2Ffd5b8a44-e9d3-4c19-bebb-c2fa5a5ebfee.xhtml&docid=UdDdUBDWbCfxcM&w=1770&h=420&q=normalization%20formula%20in%20feature%20scaling%20in%20machine%20learning&ved=2ahUKEwingtzBoviCAxUkm2MGHeTOCcoQMygXegQIARB8)
+![image](https://github.com/mohit72700/Machine-Learning-topics/assets/92523950/c583ffbc-79ca-4a05-965f-ab434c0a2ef8)
+

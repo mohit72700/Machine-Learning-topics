@@ -7,3 +7,9 @@
 * <p> Faster Convergence</p>
 * <p> Prevention of Numerical Instabilities</p>
 * <p> Preventing Overfitting </p>
+## Requirement
+<p> Jupyter Notebook</p>
+
+## Note
+You can download the python code file and csv file of dataset and understand the code and run the code on the jupyter notebook and enjoy the result.
+
